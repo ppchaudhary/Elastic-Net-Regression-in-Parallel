@@ -25,4 +25,4 @@ Applications
 📌 Policy Analysis – Support decision-making using predictive modeling.
 📌 Epidemiology – Study regional healthcare trends.
 
-
+Also i added a rjob.sh bash script which can be used to execute the r script on HPC. You need to adjust R script bassed on the available cores.
