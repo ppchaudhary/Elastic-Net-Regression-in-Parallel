@@ -13,11 +13,10 @@ Matches ZIP codes and prepares datasets.
 Runs Elastic Net regression for each outcome variable.
 Extracts model coefficients and saves results.
 Aggregates final results into Pediatric_Visits.csv.
+
 Usage
 Install required R packages:
-r
-Copy
-Edit
+
 install.packages(c("readr", "tidyverse", "glmnet", "pheatmap", "doParallel", "foreach", "zipcodeR"))
 Run the script in R to generate outputs.
 Applications
