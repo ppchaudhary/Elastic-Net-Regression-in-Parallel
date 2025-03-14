@@ -24,4 +24,4 @@ Applications
 📌 Policy Analysis – Support decision-making using predictive modeling.
 📌 Epidemiology – Study regional healthcare trends.
 
-Also i added a rjob.sh bash script which can be used to execute the r script on HPC.Currently it is configured both bash and r script to run on biwulf. You need to adjust bash and R script bassed on the available cores.
+Also i added a rjob.sh bash script which can be used to execute the r script on HPC. Currently it is configured both bash and r script to run on biwulf. You need to adjust bash and R script bassed on the available cores.
